@@ -1,4 +1,11 @@
-Dia&Co React Starter App bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Dia&Co React Starter App
+========================
+
+<3 Bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+We've created this simple react app to get you started faster by removing some of the cruft and adding Bootstrap 4. 
+
+Nevertheless, you're welcome to use anything you want!
 
 ## Available Scripts
 
