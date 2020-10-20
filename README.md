@@ -1,11 +1,8 @@
-Dia&Co React Starter App
+Mingming's Mews Search
 ========================
 
-<3 Bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-We've created this simple react app to get you started faster by removing some of the cruft and adding Bootstrap 4. 
-
-Nevertheless, you're welcome to use anything you want!
+News search app using [NewsAPI](https://newsapi.org).
+Built with React.
 
 ## Available Scripts
 
