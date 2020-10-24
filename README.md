@@ -7,7 +7,7 @@ Built with React.
 ## Available Scripts
 To install necessary packages to run the app, you may run:
 
-### `yarn start`
+### `yarn install`
 
 In the project directory, you can run:
 
