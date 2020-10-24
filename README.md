@@ -1,4 +1,4 @@
-Mingming's Mews Search
+Mingming's News Search
 ========================
 
 News search app using [NewsAPI](https://newsapi.org).
