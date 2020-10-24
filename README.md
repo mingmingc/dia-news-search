@@ -5,6 +5,9 @@ News search app using [NewsAPI](https://newsapi.org).
 Built with React.
 
 ## Available Scripts
+To install necessary packages to run the app, you may run:
+
+### `yarn start`
 
 In the project directory, you can run:
 
